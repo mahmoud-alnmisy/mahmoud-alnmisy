@@ -16,8 +16,8 @@
 
 ### 💼 Portfolio & Experience
 - 🌐 Portfolio: [mahmoudelnmesy.com](https://mahmoudelnmesy.com/)
-- 💼 Upwork: [Mahmoud Alnmisy on Upwork](https://www.upwork.com/freelancers/~0116f7dfd9e58b016f)
-- 📄 CV: [Download Portfolio PDF](https://mahmoudelnmesy.com/CV/Mahmoud_Alnmisy_Portfolio.pdf)
+- 💼 Mostaql: [Mahmoud Alnmisy on Mostaql](https://mostaql.com/u/Alnmisy_Dev)
+- 📄 CV: [Download Portfolio PDF](https://mahmoudelnmesy.com/CV/Mahmoud_Alnmisy_CV.pdf)
 - 📫 Contact: **mahmoud.alnmisy.contact@gmail.com**
 
 ---
